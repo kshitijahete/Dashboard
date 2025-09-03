@@ -13,6 +13,7 @@ import {
 import { Pie, Line } from "react-chartjs-2";
 import "./App.css";
 
+
 ChartJS.register(
   Title,
   Tooltip,
